@@ -15,7 +15,7 @@ Code Audit</br>
 &nbsp; Major: no findings, nothing to worry about.</br>
 &nbsp; Medium: no findings, nothing to worry about.</br>
 &nbsp; Minor: no findings, nothing to worry about.</br>
-&nbsp; Informational: Audit included code review, infrastructure vulnerability checks and team KYC's</br>
+&nbsp; Informational: none</br>
 </br>
 Checks Completed</br>
 &nbsp; Gas efficiency check: passed</br>
@@ -32,6 +32,8 @@ Checks Completed</br>
 &nbsp; Replay attack check: passed</br>
 &nbsp; Short address attack check: passed</br>
 </br>
+NOTES:</br>
+&nbsp; - Audit included code review, infrastructure vulnerability checks and team KYC's</br>
 </br>
 </br>
 </br>
