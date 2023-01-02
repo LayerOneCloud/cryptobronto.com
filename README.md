@@ -18,19 +18,19 @@ Code Audit</br>
 &nbsp; Informational: Audit included code review, infrastructure vulnerability checks and team KYC's</br>
 </br>
 Checks Completed</br>
-&nbsp; Gas efficiency check: passed
-&nbsp; Contract vulnerabilities check: passed
-&nbsp; Reentrancy issues check: passed
-&nbsp; Integer over/under flows check: passed
-&nbsp; Front running opportunities check: passed
-&nbsp; Interface / naming issues check: passed
-&nbsp; Order of execution check: passed
-&nbsp; Time component check: passed
-&nbsp; Blockhash function check: passed
-&nbsp; Exception handling check: passed
-&nbsp; Third-party integration check: passed
-&nbsp; Replay attack check: passed
-&nbsp; Short address attack check: passed
+&nbsp; Gas efficiency check: passed</br>
+&nbsp; Contract vulnerabilities check: passed</br>
+&nbsp; Reentrancy issues check: passed</br>
+&nbsp; Integer over/under flows check: passed</br>
+&nbsp; Front running opportunities check: passed</br>
+&nbsp; Interface / naming issues check: passed</br>
+&nbsp; Order of execution check: passed</br>
+&nbsp; Time component check: passed</br>
+&nbsp; Blockhash function check: passed</br>
+&nbsp; Exception handling check: passed</br>
+&nbsp; Third-party integration check: passed</br>
+&nbsp; Replay attack check: passed</br>
+&nbsp; Short address attack check: passed</br>
 </br>
 </br>
 </br>
