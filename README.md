@@ -1,6 +1,6 @@
 PROJECT: cryptobronto.com</br>
 </br>
-KYC - pending</br>
+KYC COMPLETED - 2022-08-01</br>
 CONTRACT AUDIT COMPLETED - 2022-08-01</br>
 </br>
 </br>
@@ -15,7 +15,7 @@ Code Audit</br>
 &nbsp; Major: no findings, nothing to worry about.</br>
 &nbsp; Medium: no findings, nothing to worry about.</br>
 &nbsp; Minor: no findings, nothing to worry about.</br>
-&nbsp; Informational: Audit is limited to code review</br>
+&nbsp; Informational: Audit included code review, infrastructure vulnerability checks and team KYC's</br>
 </br>
 Checks Completed</br>
 &nbsp; Gas efficiency check: passed
