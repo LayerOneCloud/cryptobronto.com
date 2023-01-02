@@ -8,7 +8,7 @@ AUDIT DETAILS</br>
 </br>
 Blockchain: Ethereum</br>
 Contract Address: 0xe0C7a90f45DB6c496bC6476Bb10077B7B0FCe2cb</br>
-Link: https://etherscan.io/address/0xe0c7a90f45db6c496bc6476bb10077b7b0fce2cb#code
+Link: https://etherscan.io/address/0xe0c7a90f45db6c496bc6476bb10077b7b0fce2cb#code</br>
 </br>
 Code Audit</br>
 &nbsp; Critical: no findings, nothing to worry about.</br>
