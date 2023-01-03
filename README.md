@@ -13,7 +13,7 @@ YES: The contract code contains no known bugs or weaknesses.</br>
 NOTES:</br>
  A completed KYC as per LayerOne's standards is considered the one of the main safety factors in any project.  If this project has KYC's for all members with controlling wallets then we consider the project to be safe from potential rugging (a "rug" or "rugging" is fraud from within the team).</br>
 </br>
-Why is a project with a team KYC considered the safest kind of prject?</br>
+Why is a project with a team KYC by LayerOne considered the safest kind of prject?</br>
 </br>
  Our team of cybersecurity professionals along with the Counsel of International Investigators (CII) have a track record of finding criminals and cryptocurrency recovery.  CII is a group of over 400 internationally licensed private investigators in 72 countries.</br>
 </br>
