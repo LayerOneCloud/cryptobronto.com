@@ -1,3 +1,5 @@
+<img src="https://github.com/LayerOneCloud/cryptobronto.com/blob/main/KYC-certificate_KelvinJones.png">
+
 PROJECT: cryptobronto.com</br>
 </br>
 KYC COMPLETED: 2022-11-17 - PASSED</br>
