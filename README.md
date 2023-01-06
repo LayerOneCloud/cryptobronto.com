@@ -1,7 +1,7 @@
 PROJECT: cryptobronto.com</br>
 </br>
 KYC COMPLETED: 2022-11-17 - PASSED</br>
-CONTRACT AUDIT COMPLETED: none or coming soon</br>
+CONTRACT AUDIT COMPLETED: none</br>
 </br>
 </br>
 IS IT SAFE?</br>
