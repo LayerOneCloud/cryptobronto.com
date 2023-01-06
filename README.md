@@ -7,7 +7,7 @@ CONTRACT AUDIT COMPLETED: none or coming soon</br>
 IS IT SAFE?</br>
 </br>
 YES: This project is considered safe from potential rugging (fraud) due to its KYC status.</br>
-YES: The contract code contains no known bugs or weaknesses.</br>
+RISKS: The projects contract(s) have not been audited but have been published based on known open source contracts and while there is a risk of bugs or vulnerabilities we consider the risk to be low.</br>
 </br>
 </br>
 NOTES:</br>
@@ -20,7 +20,9 @@ Why is a project with a team KYC by LayerOne considered the safest kind of prjec
 </br>
  Our team of cybersecurity professionals along with the Counsel of International Investigators (CII) have a track record of finding criminals and cryptocurrency recovery.  CII is a group of over 400 internationally licensed private investigators in 72 countries.</br>
 </br>
- If this project/person(s) did a full KYC with us, we have their home address and government ID in our vault (securely stored).  Should a crime be established (a rug), and if a legal mandate is issued we can have boots on the ground in almost any country within 24-48hrs to track and arrest where possible.  NOTE: KYC information is stored securely in accordance with GDPR, POPIA and other international standards for privacy law.  It's sole use is to validate who a person is and we can only reveal this personal information for legal purposes and no other.</br>
+ If this project/person(s) did a full KYC with us, we have their home address and government ID in our vault (securely stored).  Should a crime be established (a rug), and if a legal mandate is issued we can have boots on the ground in almost any country within 24-48hrs to track and arrest where possible.</br>
+</br>
+IMPORTANT: KYC information is stored securely in accordance with GDPR, POPIA and other international standards for privacy law.  It's sole use is to validate who a person is and we can only reveal this personal information for legal purposes and no other.</br>
 </br>
 </br>
 CONTRACT AUDIT DETAILS</br>
